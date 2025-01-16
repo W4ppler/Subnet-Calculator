@@ -19,7 +19,7 @@ calculations. It allows users to input an IP address and subnet mask
 
 ## Prerequisites
 
-*   Python 3.x
+*   Python 3.6 or higher
 *   PyQt5 (`pip install PyQt5`)
 *   netaddr (`pip install netaddr`)
 
@@ -45,18 +45,10 @@ calculations. It allows users to input an IP address and subnet mask
 
 ## Usage
 
-1.  Enter the IP address and subnet mask in CIDR notation (e.g., 192.168.1.0/24) in the input field.
+1.  Enter an IP address and subnet mask in CIDR notation (e.g., 192.168.1.0/24) in the input field.
 2.  Click the "Process" button.
 3.  The calculated network informations will be displayed in the output area.
 
 ## Example
 
 ![Example of how to use the program](images/example.png)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bug fixes or feature requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
