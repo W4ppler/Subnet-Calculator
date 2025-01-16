@@ -51,7 +51,7 @@ calculations. It allows users to input an IP address and subnet mask
 
 ## Example
 
-![Screenshot of the application](Optional: Add a screenshot here)
+![Example of how to use the program](images/example.png)
 
 ## Contributing
 
